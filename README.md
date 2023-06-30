@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samudi Perera</h1>
 <h3 align="center">Computer Science Undergraduate at University of Colombo School of Computing</h3>
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **samudiperera125@gmail.com**
 
