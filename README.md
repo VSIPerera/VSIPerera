@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samudiperera09&label=Profile%20views&color=0e75b6&style=flat" alt="samudiperera09" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Next.js**
 
 - 📫 How to reach me **samudiperera125@gmail.com**
 
